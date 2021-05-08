@@ -1,5 +1,8 @@
 # GAIH Student Repo Example
-![](img/newlogo.png)
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/gaih/introduction-to-python/master/images/logo.png" height=200px>
+</div>
 
 **Course Date:** DD.MM.YYYY  
 **Name:** Mert  
